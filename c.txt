@@ -1,2 +1,2 @@
-Adding functionality C
+Adding functionality C - it is old function, with some minot twists!
 
